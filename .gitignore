@@ -1,9 +1,0 @@
-# System / OS
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Temporary files
-*.tmp
-*.temp
-*.log
