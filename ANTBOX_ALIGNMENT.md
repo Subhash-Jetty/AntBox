@@ -1,4 +1,4 @@
-# 🎯 AntBox Capability Alignment — Why Hire Me
+# AntBox Capability Alignment — Why Hire Me
 
 > **This document maps my proven engineering output directly to AntBox's platform needs.**  
 > No hypotheticals. No buzzwords. Every claim links to code that runs.
@@ -20,7 +20,7 @@ I've already solved variants of each of these problems. Here's the proof.
 
 ---
 
-## 📊 Direct Capability Mapping
+## Direct Capability Mapping
 
 | AntBox Engineering Need | What I've Built (Proof of Work) | Project | Key Detail |
 |:---|:---|:---|:---|
@@ -36,7 +36,7 @@ I've already solved variants of each of these problems. Here's the proof.
 
 ---
 
-## 🔧 How I'd Build AntBox's AI Readiness Engine
+## How I'd Build AntBox's AI Readiness Engine
 
 This isn't speculation — I'm describing architecture patterns I've already implemented.
 
@@ -95,7 +95,7 @@ During sprint evaluation windows, AntBox needs to process thousands of submissio
 
 ---
 
-## 💡 What I Bring to AntBox's Startup Culture
+## What I Bring to AntBox's Startup Culture
 
 Based on what I've learned about AntBox's work environment from team members and the broader ecosystem:
 
@@ -123,7 +123,7 @@ This is the core alignment. AntBox believes the best way to evaluate an engineer
 
 ---
 
-## 📈 Impact Metrics Across Projects
+## Impact Metrics Across Projects
 
 | Metric | Value | Project |
 |:---|:---|:---|
