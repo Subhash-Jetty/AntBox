@@ -348,15 +348,14 @@ uvicorn main:app --reload
 
 ## What This Submission Proves
 
-AntBox believes the best way to evaluate an engineer is through **Proof of Work** — not a 45-minute whiteboard session. This submission is itself proof of that philosophy:
+I understand that AntBox believes the best way to evaluate an engineer is through Proof of Work—not a 45-minute whiteboard session.This submission is itself proof of that philosophy:
 
-- ✅ **Deployed and live** at [x-crm-one.vercel.app](https://x-crm-one.vercel.app/) — not a localhost screenshot
-- ✅ **AI that acts, not just chats** — 7 autonomous tool-calling operations
-- ✅ **Production architecture** — dual-provider LLM failover, async I/O, materialized data patterns
-- ✅ **The same engineering problems** AntBox solves — segmentation, multi-channel engagement, AI evaluation, real-time analytics
-- ✅ **Full-stack ownership** — frontend, backend, database, AI orchestration, deployment — one engineer, end to end
+- **Deployed and live** at [x-crm-one.vercel.app](https://x-crm-one.vercel.app/) — not a localhost screenshot
+- **AI that acts, not just chats** — 7 autonomous tool-calling operations
+- **Production architecture** — dual-provider LLM failover, async I/O, materialized data patterns
+- **The same engineering problems** AntBox solves — segmentation, multi-channel engagement, AI evaluation, real-time analytics
+- **Full-stack ownership** — frontend, backend, database, AI orchestration, deployment — one engineer, end to end
 
 ---
 
 **Repository:** [github.com/Subhash-Jetty/X-CRM](https://github.com/Subhash-Jetty/X-CRM) · **Live Platform:** [x-crm-one.vercel.app](https://x-crm-one.vercel.app/)  
-**Engineered by [Subhash](https://github.com/Subhash-Jetty) for [AntBox](https://theantbox.com)**
